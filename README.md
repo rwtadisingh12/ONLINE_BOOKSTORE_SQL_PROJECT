@@ -44,9 +44,7 @@ The project uses three CSV files that must be integrated into SQL tables with at
 ## Technologies Used
 - MySQL
 - Relational Databases (e.g., MySQL, PostgreSQL, SQLite)
-- CSV Data Import
+- CSV Data Import.
 
-## License
-This project is open-source and available for educational purposes.
 
 
